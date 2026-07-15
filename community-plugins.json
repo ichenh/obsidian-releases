@@ -34786,7 +34786,7 @@
     "id": "math-chords",
     "name": "Math Chords",
     "author": "CHEH Hua",
-    "description": "Insert LaTeX math with customizable keyboard shortcuts, inline MathJax preview, and display-math environments. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Write and normalize LaTeX math with leader-key shortcuts, safe delimiter conversion, MathJax preview, brace navigation, and display environments.",
     "repo": "ichenh/obsidian-math-chords"
   },
   {
